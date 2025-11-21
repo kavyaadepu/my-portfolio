@@ -88,4 +88,7 @@ section {
   cursor: pointer;
   margin-top: 20px;
   font-family: var(--font-heading);
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
